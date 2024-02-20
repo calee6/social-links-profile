@@ -29,7 +29,9 @@ body {
 
 h2 {
     font-weight: 600;
+    font-size: 18px;
     margin-bottom: 10px;
+    
 }
 
 a {
@@ -83,6 +85,11 @@ img {
     color: var(--green);
     margin-bottom: 0;
 }
+
+.quote {
+    margin: 25px 0px;
+}
+
 
 /* Media Query */
 @media screen and (max-width: 350px) {
