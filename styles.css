@@ -8,11 +8,6 @@
     --off-black: #141414;
 }
 
-@font-face {
-    font-family: Inter;
-    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
-}
-
 /* Selectors */
 html, body {
     height: 100vh;
