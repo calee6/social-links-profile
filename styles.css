@@ -54,7 +54,7 @@ img {
     border-radius: 50%;
     display: block;
     margin: 0 auto;
-    width: 100px;
+    width: 80px;
     height: auto;
 }
 
@@ -103,6 +103,6 @@ img {
     }
 
     img {
-        width: 80px;
+        width: 60px;
     }
 }
